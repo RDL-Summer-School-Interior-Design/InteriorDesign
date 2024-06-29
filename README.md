@@ -28,5 +28,16 @@ Grid is considered as floor in our project. Follow the steps below to add the ne
 - Ensure all components are added to the grid.
 - Furniture cannot be placed if it overlaps with other items in the scene; it will be destroyed immediately upon such an attempt.
 
+## How to Use
+
+Watch the [How to Use Tutorial Video](imgs/video.mp4) for a detailed walkthrough.
+
+### Controls
+
+- **Number Keys**: Pressing a number key generates the corresponding piece of furniture.
+- **Mouse Movement**: The generated furniture follows the mouse cursor.
+- **Space Key**: Press to place the furniture. If the position does not conflict with other furniture, it will be placed; otherwise, it will be destroyed.
+- **Return Key**: Use to rotate the furniture before placing it.
+- **Escape Key**: Press to cancel the placement of the current furniture.
 
 For further assistance, refer to the project documentation or contact the development team.
